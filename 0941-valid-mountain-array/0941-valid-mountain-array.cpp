@@ -4,7 +4,7 @@ public:
     int i;
     int n=nums.size();
 
-    if(n==1)
+    if(n<3)
     {
         return false;
     }
