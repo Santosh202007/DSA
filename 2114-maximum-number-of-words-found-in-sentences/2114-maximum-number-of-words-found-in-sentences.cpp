@@ -8,7 +8,7 @@ public:
             {
                 c++;
             }
-                  if(j==sentences[i].size())
+                  if(j>sentences[i].size())
                   {
                     c++;
                     i++;
