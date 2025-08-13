@@ -4,7 +4,6 @@ public:
         int y=0,i=0,j=0,c=0;
         while(i!=sentences.size())
         {
-        
             if(sentences[i][j]==' ')
             {
                 c++;
