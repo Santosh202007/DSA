@@ -7,17 +7,15 @@ public:
         {
         a[val]++;
         }
-
-        for(auto it=a.begin();it!=a.end();it++)
-        {
-        x.push_back(it->second);
-        }
-        sort(x.begin(),x.end());
-  auto it=unique(x.begin(),x.end());
-  if(it==x.end())
-  {
-    return true;
-  }
+unordered_set<int>b;
+    for(auto val:a)
+    {
+    auto result=b.insert(val.second);
+    if(!result.second)
+    {
   return false;
+    }
+    }
+    return true;
     }
 };
