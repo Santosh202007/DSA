@@ -8,15 +8,13 @@ public:
     for(char val : s) {
         m[val]++;
     }
-
-    for(auto it = m.begin(); it != m.end(); it++) {
-        if(it->second == 1) {
-            size_t x = s.find(it->first);   
-            a2 = min(a2, (int)x);             
+    for(int i=0;i<s.size();i++)
+    {
+        if(m[s[i]]==1)
+        {
+           return i;                                            
         }
     }
-
-    return a2 == INT_MAX ? -1 : a2;
-
+return -1;
     }
 };
