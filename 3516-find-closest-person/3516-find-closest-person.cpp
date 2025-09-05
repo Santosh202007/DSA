@@ -5,7 +5,7 @@ public:
         {
             return 1;
         }
-        if(y==z)
+        if(y==z  && x!=z)
         {
             return 2;
         }
@@ -16,7 +16,6 @@ public:
                     x++;
                     y++;
                     }
-                
                     else if(z<y && z<x)
                     {
                         y--;
@@ -44,9 +43,7 @@ public:
                     {
                         return 2;
                     }
-                 
-                 
-    }
+    }   
           return 0;     
     }
 };
