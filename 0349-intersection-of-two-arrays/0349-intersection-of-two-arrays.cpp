@@ -1,28 +1,16 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        map<int,int>m;
-        map<int,int>a;
-        vector<int>result;
+        unordered_set<int> a(nums2.begin(),nums2.end());
+        unordered_set<int>b;
         for(int val:nums1)
         {
-            m[val]++;
+            if(a.find(val)!=a.end())
+            {
+                b.insert(val);
+            }
         }
-        for(int val:nums2)
-        {
-            a[val]++;
-        }
-        for(auto it=m.begin();it!=m.end();it++)
-        {
-         for(auto i=a.begin();i!=a.end();i++)
-        {
-            if(it->first==i->first)
-       { 
-result.push_back(it->first);
-       }
-        } 
-
-        } 
-        return result;
+        vector<int>c(b.begin(),b.end());
+        return c;
     }
 };
