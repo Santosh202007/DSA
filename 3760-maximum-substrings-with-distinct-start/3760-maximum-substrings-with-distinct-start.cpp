@@ -1,10 +1,16 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        map<char,int>p;
-        for(auto x:s){
-         p[x]++;
+    bool ans[26]={false};
+    int c=0;
+    for(auto x:s)
+    {
+        if(!ans[x-'a'])
+        {
+            ans[x-'a']=true;
+            c++;
         }
-        return p.size();
+    }
+        return c++;
     }
 };
