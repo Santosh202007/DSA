@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Santosh202007/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Santosh202007/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Santosh202007/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Santosh202007/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Santosh202007/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Santosh202007/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
