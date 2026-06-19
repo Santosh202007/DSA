@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Santosh202007/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Santosh202007/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Santosh202007/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Santosh202007/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Santosh202007/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
