@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Santosh202007/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Santosh202007/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Santosh202007/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Santosh202007/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Santosh202007/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
