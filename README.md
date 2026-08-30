@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Santosh202007/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Santosh202007/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santosh202007/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Santosh202007/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santosh202007/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santosh202007/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Santosh202007/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 <!---LeetCode Topics End-->
