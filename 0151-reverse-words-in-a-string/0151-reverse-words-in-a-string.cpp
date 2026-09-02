@@ -62,7 +62,7 @@ for(int i=0;i<s.size();i++)
         if(x>1)
         {
             s.erase(y,x-1);
-            i -= x-1;
+            i =y;
         }
 
         x=0;
