@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Santosh202007/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Santosh202007/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Santosh202007/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Santosh202007/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Santosh202007/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sorting
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Santosh202007/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Santosh202007/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Santosh202007/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Santosh202007/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Santosh202007/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Santosh202007/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
