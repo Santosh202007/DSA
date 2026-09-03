@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Santosh202007/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Santosh202007/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Santosh202007/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/Santosh202007/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Santosh202007/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Santosh202007/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santosh202007/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Santosh202007/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santosh202007/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Santosh202007/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Santosh202007/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Santosh202007/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Santosh202007/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Santosh202007/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
